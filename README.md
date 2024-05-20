@@ -14,7 +14,7 @@ An App that helps you cut down on screentime, with one less swipe of the screen.
 ## Overview
 D-Screen AI uses generative AI to assist, advise, and mitigate social media addiction through a more personalized approach.
 
-![DScreen AI Demo](https://github.com/marcrosario/D-Screen-AI-Test/assets/163811834/03437bd7-48b8-4174-b236-fe95d5508101)
+![DScreen AI Demo](https://github.com/marcrosario/D-Screen-AI/assets/163811834/b5f98042-5c7d-4889-be28-833eb72d6956)
 
 ## D-Screen AI: What is it?
 We use generative AI to assist, advise, and mitigate social media addiction through a more personalized way.
