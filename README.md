@@ -1,6 +1,7 @@
 # D-Screen AI
 
-<img src="https://github.com/marcrosario/D-Screen-AI-Test/assets/163811834/2956366a-6beb-443b-a56a-cc3abd44757d" alt="DScreen AI Logo" width="250" height="250">
+<img src="![image](https://github.com/marcrosario/D-Screen-AI/assets/163811834/cc38bc16-45b1-4a04-a1c1-c1aa452dec71)
+" alt="DScreen AI Logo" width="250" height="250">
 
 An App that helps you cut down on screentime, with one less swipe of the screen.
 
